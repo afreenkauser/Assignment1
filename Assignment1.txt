@@ -1,0 +1,5 @@
+This is the asssignment1 of GIT.
+
+Git Remote Repositories.
+
+other steps will be done one by one.
